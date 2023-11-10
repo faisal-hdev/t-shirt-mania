@@ -7,3 +7,10 @@
 .t-shirt_details img {
   height: 200px;
 }
+
+.t-shirt_details button {
+  padding: 8px 32px;
+  border-radius: 6px;
+  font-size: 600;
+  cursor: pointer;
+}

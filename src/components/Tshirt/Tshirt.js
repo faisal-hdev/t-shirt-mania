@@ -6,7 +6,7 @@ const Tshirt = ({ tShirt, handleBuyToCart }) => {
   return (
     <div className="t-shirt_details">
       <img src={picture} alt="" />
-      <h4>{name}</h4>
+      <h3>{name}</h3>
       <p>Price : {price}TK</p>
       <button onClick={() => handleBuyToCart(tShirt)}>Buy this</button>
     </div>
