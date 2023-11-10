@@ -1,0 +1,9 @@
+.t-shirt_details {
+  border: 1px solid skyblue;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.t-shirt_details img {
+  height: 200px;
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "_id": "623853b26z14xad5aba311fdd1",
+    "index": 0,
+    "price": 200,
+    "picture": "https://i.pinimg.com/originals/9f/3d/13/9f3d13912d3cf78e4c87975bcebc1fee.jpg",
+    "name": "Just Chill",
+    "gender": "Just Chill"
+  },
+  {
+    "_id": "623853b2614xad5aaba311fdd1",
+    "index": 0,
+    "price": 220,
+    "picture": "https://www.razzaktextile.com/wp-content/uploads/2022/03/Thamle1.1.jpg",
+    "name": "Just Chill",
+    "gender": "Just Chill"
+  },
+  {
+    "_id": "623853b2578exs9e6ad1ae0dd5",
+    "index": 1,
+    "picture": "https://render.fineartamerica.com/images/rendered/default/t-shirt/23/30/images/artworkimages/medium/1/coffee-coding-syntax-aadil-farooq-transparent.png?targetx=0&targety=0&imagewidth=430&imageheight=516&modelwidth=430&modelheight=575",
+    "name": "Keep Coding",
+    "price": 230,
+    "gender": "Keep Coding"
+  },
+  {
+    "_id": "623853b2578e9es6ad1ae0dd5",
+    "index": 1,
+    "picture": "https://ih1.redbubble.net/image.2483834268.0966/ssrco,classic_tee,womens,101010:01c5ca27c6,front_alt,square_product,600x600.jpg",
+    "name": "Keep Coding",
+    "price": 270,
+    "gender": "Keep Coding"
+  },
+  {
+    "_id": "623853b25d78e9e6ad1ae0dd5",
+    "index": 1,
+    "picture": "https://5.imimg.com/data5/SELLER/Default/2022/3/QP/ML/LQ/42966509/3-500x500.jpg",
+    "name": "Keep Coding",
+    "price": 210,
+    "gender": "Keep Coding"
+  },
+  {
+    "_id": "623853b21fb149dy2ee7b76c7",
+    "index": 2,
+    "picture": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8dCUyMHNoaXJ0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "name": "Black",
+    "price": 240,
+    "gender": ""
+  },
+  {
+    "_id": "623853b2e91c48de578c9245e",
+    "index": 3,
+    "picture": "https://5.imimg.com/data5/SH/GC/MY-8764775/mens-t-shirt-500x500.jpg",
+    "name": "Mix Yellow",
+    "price": 210,
+    "gender": "Mix Yellow"
+  },
+  {
+    "_id": "623853b2239582e48409ccc26",
+    "index": 4,
+    "price": 340,
+    "picture": "https://www.billbazar.com.bd/public/uploads/all/8hgD0lQGODVXbB5sokhvwr7mUNjBx7pEHusuyGZj.webp",
+    "name": "Bachelor",
+    "gender": "male"
+  },
+  {
+    "_id": "623853b2239582e438409ccc6",
+    "index": 4,
+    "price": 220,
+    "picture": "https://static-01.daraz.com.bd/p/02976726a3f1dec3e4089fd58c87d20e.jpg",
+    "name": "Bachelor",
+    "gender": "male"
+  },
+  {
+    "_id": "623853b22395821e48409ccc6",
+    "index": 4,
+    "price": 200,
+    "picture": "https://www.razzaktextile.com/wp-content/uploads/2022/03/Khati-Gorom1.jpg",
+    "name": "Bachelor",
+    "gender": "male"
+  },
+  {
+    "_id": "623853b2cdda0d45bc294f791",
+    "index": 5,
+    "picture": "https://m.media-amazon.com/images/I/61GMJ+3ekAS._AC_UL320_.jpg",
+    "name": "Right Price",
+    "price": 250,
+    "gender": "male"
+  },
+  {
+    "_id": "623853b2cdda0d5b6c294f791",
+    "index": 5,
+    "name": "White Skull",
+    "picture": "https://static-01.daraz.com.bd/p/ff7e75bf9954d64984f35edebc3df3f0.jpg",
+    "price": 190,
+    "gender": "male"
+  },
+  {
+    "_id": "623853b2cdda0dv5bc294f791",
+    "index": 5,
+    "name": "White Skull",
+    "picture": "https://images.meesho.com/images/products/153512542/muq8g_512.webp",
+    "price": 190,
+    "gender": "male"
+  },
+  {
+    "_id": "623853b2cddha0d5bc294f791",
+    "index": 5,
+    "name": "White Skull",
+    "picture": "https://jolchobi.in/wp-content/uploads/2021/12/1-28.jpg",
+    "price": 120,
+    "gender": "male"
+  },
+  {
+    "_id": "623853b2736fg519fd4eb8d44a",
+    "index": 6,
+    "price": 310,
+    "picture": "https://i.pinimg.com/236x/af/96/95/af9695e0116a1d859336024e6cdcea10.jpg",
+    "name": "Black Skull",
+    "gender": "female"
+  }
+]
